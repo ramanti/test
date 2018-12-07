@@ -1,0 +1,10 @@
+{
+    "name": "praveen/test",
+    "description": "test",
+    "type": "project",
+    "license": "MIT",
+    "autoload":{
+    	"Praveen\\":"service/"
+    },
+    "require": {}
+}
